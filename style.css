@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: white;
+    font-size: 15px;
+}
+
+.container {
+    background-color: 	#696969;
+    display: flexbox;
+    color: #FAFEFC;
+    justify-content: center;
+    border: 3px solid brown;
+    border-radius: 40px;
+    width: 500px;
+    height: 550px;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 20px 20px 20px 20px;
+    font-weight: bold;
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.input1 {
+    border: 3px solid #A775DB;
+    height: 250px;
+    background-color: #FA859D;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.entrada1 {
+    margin-bottom: 20px;
+    width: 300px;
+    height: 25px;
+    background-color:#FAFEFC;
+    border-radius: 5px;
+
+}
+.selecionar1 {
+    margin-bottom: 20px;
+    width: 400px;
+    cursor: pointer;
+}
+#tip {
+    margin-top: 10px;
+    color: #FA1151;
+    font-weight: bold;
+}
+#total {
+    margin-top:10px;
+    color: #FA1151;
+    font-weight: bold;
+}
+
+
+.input3 {
+    border: 3px solid #A775DB;
+    height: 120px;
+    background-color: #FA859D;
+    border-radius: 20px;
+    padding: 20px;
+}
+.selecionar2 {
+    width: 450px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.cada {
+    margin-bottom: 10px;
+}
+
+#porcetagem, #pessoas, #dividir{
+    color: #FA1151;
+    font-weight: bold;
+}
+
+
+
+
